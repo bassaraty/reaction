@@ -63,7 +63,7 @@
     "promise-retry": "^1.1.1",
     "ramda": "~0.26.1",
     "semver": "~6.3.0",
-    "sharp": "~0.23.1",
+    "sharp": "~0.30.5",
     "simpl-schema": "~1.5.6",
     "stripe": "~5.10.0"
   },
